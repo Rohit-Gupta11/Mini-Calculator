@@ -13,13 +13,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background: linear-gradient(145deg, #d41fad, #fd24cd);
 }
 
 main{
     border-radius: 32px;
     background: linear-gradient(145deg, #d41fad, #fd24cd);
-    box-shadow:  16px 16px 35px #c21c9d, 
-                 -16px -16px 35px #ff28e3;
+    box-shadow:  9px 7px 10px #c21c9d, -2px -5px 10px #ff28e3;
     padding:1rem;
 }
 input, button {
